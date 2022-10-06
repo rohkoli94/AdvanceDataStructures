@@ -1,26 +1,23 @@
 
 # Data Structure and Algorithms
 
-Contains JAVA code for basic Data Structure & Algorithm problems
-
-
+Contains JAVA code for Advanced Data Structure & Algorithm problems
 
 
 ## Features
 
-- OOP
-- Generics
-- Maths
-- Star & Number Patterns
-- Bubble Sort Algorithm
-- Selection sort Algorithm 
-- Insertion Search Algorithm 
-- Cyclic sort Algorithm and Questions/Answers
-- Binary Search Algorithm and Questions/Answers
-- Bitwise operators and Questions/Answers
-- Recursion and Questions/Answers
-
-
+- Arrays
+- Binary Search Trees
+- Dynamic programming
+- Graphs
+- Hashmaps
+- Heaps 
+- LinkedLists
+- Sliding Window
+- Stacks
+- Queue
+- Trees
+- Exceptions
 
 
 
@@ -38,5 +35,10 @@ Clone the repo
 ## Contact
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-koli-1aa356132)
+
+
+
+
+
 
 
